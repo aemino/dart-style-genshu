@@ -1,4 +1,4 @@
-name: style-genshu
+name: style_genshu
 description: Provider for Dart analysis options.
 homepage: https://github.com/aemino/dart-style-genshu
 
