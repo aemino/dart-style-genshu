@@ -1,0 +1,6 @@
+name: style-genshu
+description: Provider for Dart analysis options.
+homepage: https://github.com/aemino/dart-style-genshu
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
