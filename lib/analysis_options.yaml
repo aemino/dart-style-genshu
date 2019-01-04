@@ -1,7 +1,3 @@
-analyzer:
-  strong-mode:
-    implicit-casts: false
-
 linter:
   rules:
     # Error Rules
@@ -10,11 +6,11 @@ linter:
     - avoid_returning_null_for_future
     - avoid_types_as_parameter_names
     - avoid_void_async
-    - cancel_subscriptions
     - close_sinks
     - comment_references
     - control_flow_in_finally
     - empty_statements
+    - cancel_subscriptions
     - hash_and_equals
     - invariant_booleans
     - iterable_contains_unrelated_type
